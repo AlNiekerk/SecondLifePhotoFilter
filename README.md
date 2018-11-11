@@ -1,4 +1,4 @@
-# SecondLifePhotoFilter for Firestorm
+# SecondLifePhotoFilter for Firestorm: Charcoal 
 To be used with my sketchboard for drawing charcoal images 
 Open your Firestorm folder on oyur computer, look for the folder \app_settings\filters and drop this file there
 Restart Firestorm
